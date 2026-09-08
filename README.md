@@ -55,7 +55,7 @@ Subject:
 Logon Type:             2 (Interactive Logon)
 ```
 
-![Figure 1: Windows Event Viewer panel isolating Event ID 4625 Audit Failures on GAL1LEO](images/windows_auth_failure.png)
+![Figure 1: Windows Event Viewer panel isolating Event ID 4625 Audit Failures on GAL1LEO](image/windows_auth_failure.png)
 
 ---
 
